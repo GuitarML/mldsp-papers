@@ -1,6 +1,6 @@
 ---
-name: Suggest a paper
-about: Use this template to suggest a paper for the list
+name: Submit a paper
+about: Use this template to submit a paper to the list
 labels: 'paper'
 ---
 
