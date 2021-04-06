@@ -6,7 +6,7 @@ labels: 'paper'
 
 <!--
 Hello and thank you for trying to contribute!
-Please follow the guide below in order to add your paper to the list
+Please fill the fields below in order to submit your paper to the list
 
 Thanks again for your help!
 -->

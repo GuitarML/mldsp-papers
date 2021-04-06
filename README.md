@@ -2,7 +2,7 @@
 
 This is a curated list of papers related to neural net/machine learning applications in Audio Digital Signal Processing. The purpose of it is to help find useful pieces of information for newcomers
 
-You can contribute to the list by opening a issue or forking the repository and starting a pull request
+You can contribute to the list by [opening a issue](https://github.com/GuitarML/mldsp-papers/issues/new?assignees=&labels=paper&template=00-add-paper.md) or forking the repository and [starting a pull request](https://github.com/GuitarML/mldsp-papers/compare)
 
 ## Papers
 
