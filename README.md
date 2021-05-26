@@ -22,7 +22,17 @@ You can contribute to the list by [opening a issue](https://github.com/GuitarML/
 - [`Modeling plate and spring reverberation using a DSP-informed deep neural network`](https://arxiv.org/pdf/1910.10105) - 2020, by Marco A. Martínez Ramírez, Emmanouil Benetos, Joshua D. Reiss
 - [`Investigation of a real-time hearing loss simulation for use in audio production`](https://www.eecs.qmul.ac.uk/~josh/documents/2020/20906.pdf) - 2020, by Angeliki Mourgela, Trevor R. Agus, and Joshua D. Reiss
 - [`Real-Time Sound Synthesis of Audience Applause`](https://www.eecs.qmul.ac.uk/~josh/documents/2020/20732.pdf) - 2020, by J. R. R. Lee and J. D. Reiss
+- [`A Comparison of Virtual Analog Modelling Techniques for Desktop and Embedded Implementations`](https://arxiv.org/pdf/2009.02833.pdf) - 2020, by Jatin Chowdhury
+- [`Efficient Neural Networks for Real-time Analog Audio Effect Modeling`](https://arxiv.org/pdf/2102.06200.pdf) - 2021, by Christian J. Steinmetz, Joshua D. Reiss
+- [`A Vacuum-Tube Guitar Amplifier Model Using Long/Short-Term Memory Networks`](https://ieeexplore.ieee.org/document/8479039) - 2018, by Zhichen Zhang; Edward Olbrych; Joseph Bruchalski; Thomas J. McCormick; David L. Livingston
+- [`Real Time Emulation of Parametric Guitar Tube Amplifier With Long Short Term Memory Neural Network`](https://arxiv.org/pdf/1804.07145.pdf) - 2018, by Thomas Schmitz, Jean-Jacques Embrechts
+- [`WaveNet: A Generative Model for Raw Audio`](https://arxiv.org/abs/1609.03499) - 2016, by Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu
+
+- [**DAFx Paper Archive** - Machine Learning](http://www.dafx.de/paper-archive/search.php?q=machine%20learning&years=2016%2C2017%2C2018%2C2019%2C2020)
+- [**DAFx Paper Archive** - Neural Network](http://www.dafx.de/paper-archive/search.php?q=neural&years=2016%2C2017%2C2018%2C2019%2C2020)
 
 ## Other lists
 
+- [`More Awesome Music DSP`](https://github.com/olilarkin/awesome-musicdsp)
 - [`Awesome Audio DSP`](https://github.com/BillyDM/Awesome-Audio-DSP/blob/main/README.md)
+- [`Audio-Plugin-Development-Resources`](https://github.com/jareddrayton/Audio-Plugin-Development-Resources)

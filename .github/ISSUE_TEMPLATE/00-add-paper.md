@@ -14,4 +14,4 @@ Thanks again for your help!
 **Title**:
 **Link**:
 **Year**:
-**Authors**:
+**Author(s)**:
