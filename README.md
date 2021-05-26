@@ -30,6 +30,7 @@ You can contribute to the list by [opening a issue](https://github.com/GuitarML/
 
 - [**DAFx Paper Archive** - Machine Learning](http://www.dafx.de/paper-archive/search.php?q=machine%20learning&years=2016%2C2017%2C2018%2C2019%2C2020)
 - [**DAFx Paper Archive** - Neural Network](http://www.dafx.de/paper-archive/search.php?q=neural&years=2016%2C2017%2C2018%2C2019%2C2020)
+- [**DAFx Paper Archive** - Deep Learning](http://www.dafx.de/paper-archive/search.php?q=deep&years=2016%2C2017%2C2018%2C2019%2C2020)
 
 ## Other lists
 
