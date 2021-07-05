@@ -24,7 +24,7 @@ You can contribute to the list by [opening a issue](https://github.com/GuitarML/
 - [`Real-Time Sound Synthesis of Audience Applause`](https://www.eecs.qmul.ac.uk/~josh/documents/2020/20732.pdf) - 2020, by J. R. R. Lee and J. D. Reiss
 - [`A Comparison of Virtual Analog Modelling Techniques for Desktop and Embedded Implementations`](https://arxiv.org/pdf/2009.02833.pdf) - 2020, by Jatin Chowdhury
 - [`Efficient Neural Networks for Real-time Analog Audio Effect Modeling`](https://arxiv.org/pdf/2102.06200.pdf) - 2021, by Christian J. Steinmetz, Joshua D. Reiss
-- [`A Vacuum-Tube Guitar Amplifier Model Using Long/Short-Term Memory Networks`](https://ieeexplore.ieee.org/document/8479039) - 2018, by Zhichen Zhang; Edward Olbrych; Joseph Bruchalski; Thomas J. McCormick; David L. Livingston
+- [`A Vacuum-Tube Guitar Amplifier Model Using Long/Short-Term Memory Networks`](https://ieeexplore.ieee.org/document/8479039) ([Sci-Hub](https://sci-hub.do/10.1109/SECON.2018.8479039#)) - 2018, by Zhichen Zhang; Edward Olbrych; Joseph Bruchalski; Thomas J. McCormick; David L. Livingston
 - [`Real Time Emulation of Parametric Guitar Tube Amplifier With Long Short Term Memory Neural Network`](https://arxiv.org/pdf/1804.07145.pdf) - 2018, by Thomas Schmitz, Jean-Jacques Embrechts
 - [`WaveNet: A Generative Model for Raw Audio`](https://arxiv.org/abs/1609.03499) - 2016, by Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu
 
