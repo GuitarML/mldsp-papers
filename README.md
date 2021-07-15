@@ -6,6 +6,8 @@ You can contribute to the list by [opening a issue](https://github.com/GuitarML/
 
 ## Papers
 
+- `COMMUNITY` [`RTNeural: Fast Neural Inferencing for Real-Time Systems`](https://arxiv.org/pdf/2106.03037.pdf) - 2021, Jatin Chowdhury
+
 - [`Real-Time Modeling of Audio Distortion Circuits with Deep Learning`](https://acris.aalto.fi/ws/portalfiles/portal/34352788/ELEC_Damskagg_Real_time_modeling_SMC2019.pdf) - 2019, by Damskägg, Eero-Pekka; Juvela, Lauri; Välimäki, Vesa
 - [`Real-time guitar amplifier emulation with deep learning`](https://acris.aalto.fi/ws/portalfiles/portal/41964332/Real_time_guitar_amplifier_emulation.pdf) - 2020, by Wright, Alec; Damskägg, Eero Pekka; Juvela, Lauri; Välimäki, Vesa
 - [`Perceptual Loss Function for Neural Modelling of Audio Systems`](https://acris.aalto.fi/ws/portalfiles/portal/43946100/ICASSP_2020_RNN_Loss_Functions.pdf) - 2020, by Wright, Alec; Välimäki, Vesa
