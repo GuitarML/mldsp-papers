@@ -29,10 +29,12 @@ You can contribute to the list by [opening a issue](https://github.com/GuitarML/
 - [`A Vacuum-Tube Guitar Amplifier Model Using Long/Short-Term Memory Networks`](https://ieeexplore.ieee.org/document/8479039) ([Sci-Hub](https://sci-hub.do/10.1109/SECON.2018.8479039#)) - 2018, by Zhichen Zhang; Edward Olbrych; Joseph Bruchalski; Thomas J. McCormick; David L. Livingston
 - [`Real Time Emulation of Parametric Guitar Tube Amplifier With Long Short Term Memory Neural Network`](https://arxiv.org/pdf/1804.07145.pdf) - 2018, by Thomas Schmitz, Jean-Jacques Embrechts
 - [`WaveNet: A Generative Model for Raw Audio`](https://arxiv.org/abs/1609.03499) - 2016, by Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu
+- [`Real-time Timbre Transfer and Sound Synthesis using DDSP`](https://arxiv.org/abs/2103.07220) - 2021, by Francesco Ganis, Erik Frej Knudesn, Søren V. K. Lyster, Robin Otterbein, David Südholt, Cumhur Erkut
+- [`Steerable discovery of neural audio effects`](https://arxiv.org/abs/2112.02926) - 2021, by Christian J. Steinmetz and Joshua D. Reiss
 
-- [**DAFx Paper Archive** - Machine Learning](http://www.dafx.de/paper-archive/search.php?q=machine%20learning&years=2016%2C2017%2C2018%2C2019%2C2020)
-- [**DAFx Paper Archive** - Neural Network](http://www.dafx.de/paper-archive/search.php?q=neural&years=2016%2C2017%2C2018%2C2019%2C2020)
-- [**DAFx Paper Archive** - Deep Learning](http://www.dafx.de/paper-archive/search.php?q=deep&years=2016%2C2017%2C2018%2C2019%2C2020)
+- [**DAFx Paper Archive** - Machine Learning](http://www.dafx.de/paper-archive/search.php?q=machine%20learning&years=2016%2C2017%2C2018%2C2019%2C2020%2C2021)
+- [**DAFx Paper Archive** - Neural Network](http://www.dafx.de/paper-archive/search.php?q=neural&years=2016%2C2017%2C2018%2C2019%2C2020%2C2021)
+- [**DAFx Paper Archive** - Deep Learning](http://www.dafx.de/paper-archive/search.php?q=deep&years=2016%2C2017%2C2018%2C2019%2C2020%2C2021)
 
 ## Other lists
 
