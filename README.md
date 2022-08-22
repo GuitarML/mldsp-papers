@@ -32,6 +32,8 @@ You can contribute to the list by [opening a issue](https://github.com/GuitarML/
 - [`Real-time Timbre Transfer and Sound Synthesis using DDSP`](https://arxiv.org/abs/2103.07220) - 2021, by Francesco Ganis, Erik Frej Knudesn, Søren V. K. Lyster, Robin Otterbein, David Südholt, Cumhur Erkut
 - [`Steerable discovery of neural audio effects`](https://arxiv.org/abs/2112.02926) - 2021, by Christian J. Steinmetz and Joshua D. Reiss
 - [`SignalTrain: Profiling Audio Compressors with Deep Neural Networks`](https://arxiv.org/pdf/1905.11928.pdf) - 2019, by Scott H. Hawley, Benjamin Colburn, Stylianos I. Mimilakis
+- [`Neural Parametric Equalizer Matching Using Differentiable Biquads`](https://dafx2020.mdw.ac.at/proceedings/papers/DAFx2020_paper_7.pdf) - 2020, Shahan Nercessian,
+iZotope, Inc.
 
 - [**DAFx Paper Archive** - Machine Learning](http://www.dafx.de/paper-archive/search.php?q=machine%20learning&years=2016%2C2017%2C2018%2C2019%2C2020%2C2021)
 - [**DAFx Paper Archive** - Neural Network](http://www.dafx.de/paper-archive/search.php?q=neural&years=2016%2C2017%2C2018%2C2019%2C2020%2C2021)
