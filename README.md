@@ -38,9 +38,11 @@ iZotope, Inc.
 - [`Automatic music mixing with deep learning and out-of-domain data`](https://arxiv.org/abs/2208.11428) - 2022, Marco A. Martínez-Ramírez, Wei-Hsiang Liao, Giorgio Fabbro, Stefan Uhlich, Chihiro Nagashima, Yuki Mitsufuji
 - [`Fast Temporal Convolutions for Real-Time Audio Signal Processing`](https://www.dafx.de/paper-archive/2022/papers/DAFx20in22_paper_43.pdf) - 2022, Stepan Miklanek, Jiri Schimmel
 
-- [**DAFx Paper Archive** - Machine Learning](http://www.dafx.de/paper-archive/search.php?q=machine%20learning&years=2016%2C2017%2C2018%2C2019%2C2020%2C2021)
-- [**DAFx Paper Archive** - Neural Network](http://www.dafx.de/paper-archive/search.php?q=neural&years=2016%2C2017%2C2018%2C2019%2C2020%2C2021)
-- [**DAFx Paper Archive** - Deep Learning](http://www.dafx.de/paper-archive/search.php?q=deep&years=2016%2C2017%2C2018%2C2019%2C2020%2C2021)
+## Links
+
+- [**DAFx Paper Archive** - Machine Learning](http://www.dafx.de/paper-archive/search.php?q=machine%20learning&years=2016%2C2017%2C2018%2C2019%2C2020%2C2021%2C2022)
+- [**DAFx Paper Archive** - Neural Network](http://www.dafx.de/paper-archive/search.php?q=neural&years=2016%2C2017%2C2018%2C2019%2C2020%2C2021%2C2022)
+- [**DAFx Paper Archive** - Deep Learning](http://www.dafx.de/paper-archive/search.php?q=deep&years=2016%2C2017%2C2018%2C2019%2C2020%2C2021%2C2022)
 
 ## Other lists
 
