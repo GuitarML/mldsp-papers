@@ -37,6 +37,7 @@ iZotope, Inc.
 - [`Grey Box Modelling of Dynamic Range Compression`](https://dafx2020.mdw.ac.at/proceedings/papers/DAFx20in22_paper_35.pdf) - 2022, Alec Wright, Vesa Välimäki
 - [`Automatic music mixing with deep learning and out-of-domain data`](https://arxiv.org/abs/2208.11428) - 2022, Marco A. Martínez-Ramírez, Wei-Hsiang Liao, Giorgio Fabbro, Stefan Uhlich, Chihiro Nagashima, Yuki Mitsufuji
 - [`Fast Temporal Convolutions for Real-Time Audio Signal Processing`](https://www.dafx.de/paper-archive/2022/papers/DAFx20in22_paper_43.pdf) - 2022, Stepan Miklanek, Jiri Schimmel
+- [`Pruning Deep Neural Network Models of Guitar Distortion Effects`](https://ieeexplore.ieee.org/document/9954902/references#references) - 2022, David Südholt; Alec Wright; Cumhur Erkut; Vesa Välimäki
 
 ## Links
 
