@@ -14,7 +14,7 @@ You can contribute to the list by [opening a issue](https://github.com/GuitarML/
 - [`Neural Modelling of LFO Modulated Time Varying Effects`](https://acris.aalto.fi/ws/portalfiles/portal/51679961/DAFx2020_paper_49.pdf) - 2020, by Wright, Alec; Välimäki, Vesa
 - [`Real-time black-box modelling with recurrent neural networks`](https://acris.aalto.fi/ws/portalfiles/portal/36768418/ELEC_Wright_Real_time_black_box_DAFx2019.pdf) - 2019, by Wright, Alec; Damskägg, Eero-Pekka; Välimäki, Vesa
 - [`Deep Learning for Black-Box Modeling of Audio Effects`](https://www.mdpi.com/2076-3417/10/2/638/htm) - 2020, by Marco A. Martínez Ramírez, Emmanouil Benetos and Joshua D. Reiss
-- [`Modelling of nonlinear state-space systems using a deep neural network`](https://dafx2019.bcu.ac.uk/papers/DAFx2019_paper_42.pdf) - 2019, by Julian D. Parker, Fabián Esqueda, André Bergner
+- [`Modelling of nonlinear state-space systems using a deep neural network`](https://dafx.de/paper-archive/2019/DAFx2019_paper_42.pdf) - 2019, by Julian D. Parker, Fabián Esqueda, André Bergner
 - [`DDSP: Differentiable Digital Signal Processing`](https://openreview.net/pdf?id=B1x1ma4tDr) - 2019, by Jesse Engel, Lamtharn (Hanoi) Hantrakul, Chenjie Gu, Adam Roberts
 - [`GANSynth: Adversarial Neural Audio Synthesis`](https://openreview.net/pdf?id=H1xQVn09FX) - 2019, by Jesse Engel, Kumar Krishna Agrawal, Shuo Chen, Ishaan Gulrajani, Chris Donahue, & Adam Roberts
 - [`Guitar Effects Recognition and Parameter Estimation with Convolutional Neural Networks`](https://arxiv.org/pdf/2012.03216) - 2020, by Marco Comunità, Dan Stowell, Joshua D. Reiss
